@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# VS Code (ignore everything except settings)
+.vscode/*
+!.vscode/settings.json
+
+# Optional (future)
+node_modules/
